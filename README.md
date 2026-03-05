@@ -1,6 +1,6 @@
 # Mieru-Plus
 
-mieru 一键管理脚本，自动搭建 TCP 和 UDP 账号，生成官方配置和 Clash Meta / Mihomo 配置。
+mieru 一键安装脚本，自动搭建 TCP 和 UDP 账号，生成官方配置和 Clash Meta / Mihomo 配置。
 
 ---
 
