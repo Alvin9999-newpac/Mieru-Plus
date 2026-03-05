@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================
-#  Mieru 代理管理脚本
-#  项目地址：https://github.com/enfein/mieru
+#  Mieru 管理脚本 v1.0.0
+#  项目地址：https://github.com/Alvin9999-newpac/Mieru-Plus
 # ============================================================
 
 set -Eeuo pipefail
