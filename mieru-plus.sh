@@ -82,8 +82,8 @@ show_menu() {
 
   echo -e "${BOLD}${CYAN}"
   echo " ================================================"
-  echo "   Mieru 代理管理脚本"
-  echo "   https://github.com/enfein/mieru"
+  echo "   Mieru 管理脚本 v1.0.0"
+  echo "   https://github.com/Alvin9999-newpac/Mieru-Plus"
   echo -e " ================================================${PLAIN}"
   printf " %-12s ${BC}%s${PLAIN}\n"   "BBR 加速："  "$BBR"
   printf " %-12s ${SC}%s${PLAIN}\n"   "服务状态："  "$STATUS"
