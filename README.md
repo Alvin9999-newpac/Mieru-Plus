@@ -35,8 +35,8 @@ bash mieru-plus.sh
 
 ```
  ================================================
-   Mieru 代理管理脚本
-   https://github.com/enfein/mieru
+   Mieru 管理脚本
+   https://github.com/Alvin9999-newpac/Mieru-Plus
  ================================================
  BBR 加速：  已启用
  服务状态：  运行中
